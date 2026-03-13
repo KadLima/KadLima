@@ -6,8 +6,9 @@
 
 <h2 align="center"> Olá! Seja bem vindo ao meu GitHub</h2>
 
-<h4 align="center"> ° 👨🏻‍💻 A procura de trabalho na minha área </h4>
-<h4 align="center"> ° 🎓 Graduando em Análise e Desenvolvimento de Sistemas (Cursando paralelamente Backend em Java e Banco de Dados Relacionais)</h4>
+<h4 align="center"> ° 👨🏻‍💻 Coordenador de Desenvolvimento de Sistemas da SCGE (Secretaria da Controladoria Geral do Estado de Pernambuco) </h4>
+<h4 align="center"> ° 🎓 Pós Graduando em Engenharia de Software - PUC Minas </h4>
+<h4 align="center"> ° 🎓 Graduado em Análise e Desenvolvimento de Sistemas </h4>
 
 <br>
 
